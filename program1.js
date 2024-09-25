@@ -31,7 +31,7 @@ const getTotalIsles = function (grid) {
               dfs(r, c); 
           }
       }
-
+    }
 
 };
 
